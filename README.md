@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmad-milzam
 - 👀 I’m interested in Web Design and App Design
-- 🌱 I’m currently learning CodeIgniter, Bootstrap, Laravel, Flutter
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Bootstrap, Javascript, CodeIgniter, Laravel, Flutter
+- 💞️ I’m looking to collaborate on Software Engineer or Frontend Developer
 - 📫 You can contact me via email ahmadmilzam88@gmail.com 
 
 <!---
